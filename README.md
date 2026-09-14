@@ -44,7 +44,7 @@ I continued my education with a master's in Infectious Diseases and Tropical Med
 
 **2023 | First Steps With AI**
 
-I first started using AI as a learning tool to help me understand and work through my medical education. At that point, I was not trying to build technology. I was simply using it to learn better.
+I first started using AI as a learning tool during my medical education. I used it to help with assignments, presentations, research, and understanding difficult topics more clearly. At that point, I was not trying to build technology. I was simply using AI as a practical tool to support my education and improve how I learned.
 
 **2024 to 2025 | Trading**
 
