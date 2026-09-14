@@ -36,7 +36,7 @@ https://zekazi.com
 
 **2016 to 2022 | Medicine**
 
-I studied medicine and completed my MBBS.
+I studied medicine and completed a **Bachelor of Medicine and Bachelor of Surgery (MBBS)**.
 
 **2023 to 2024 | Infectious Diseases and Tropical Medicine**
 
