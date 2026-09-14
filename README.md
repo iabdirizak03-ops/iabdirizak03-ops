@@ -26,11 +26,9 @@ https://www.tradeloggy.com
 
 ### Zekazi
 
-Zekazi is a working product built under Zetemora.
+Zekazi is a working AI whiteboard product built under Zetemora.
 
-It moved from an idea into a real system that is now officially running.
-
-The focus is not on making large promises. The focus is on making the product useful, reliable, and better over time.
+It is officially running and represents another part of our work in building practical AI products that people can use today.
 
 https://zekazi.com
 
