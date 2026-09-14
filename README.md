@@ -34,7 +34,7 @@ https://zekazi.com
 
 ## My Background
 
-**2016 to 2022 | Medicine**
+**2016 to 2022 | Medicine and Surgery**
 
 I studied medicine and completed a **Bachelor of Medicine and Bachelor of Surgery (MBBS)**.
 
