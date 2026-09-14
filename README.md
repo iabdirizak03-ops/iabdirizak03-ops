@@ -92,16 +92,6 @@ User data should be treated as a responsibility.
 
 Trust is difficult to build and easy to lose, so product decisions should protect it.
 
-## My GitHub
-
-This GitHub represents the actual process of building.
-
-Some repositories become products. Some are experiments. Some ideas change direction. Some do not survive. Some systems work well, and others need to be rebuilt.
-
-I am comfortable with that.
-
-Building is not about pretending every idea was perfect. It is about learning fast enough to make the next version better.
-
 ## Current Focus
 
 Building Zetemora carefully, growing Tradeloggy responsibly, improving Zekazi, learning more about AI and software engineering, and creating technology from Africa that can compete globally.
