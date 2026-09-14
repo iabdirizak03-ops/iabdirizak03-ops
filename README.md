@@ -34,13 +34,35 @@ https://zekazi.com
 
 ## My Background
 
-I started from medicine, not software engineering.
+**2016 to 2022 | Medicine**
 
-That means my path into technology has been different.
+I studied medicine and completed my MBBS.
 
-I did not begin by trying to collect programming languages or frameworks. I started by asking what I wanted to build, then learned the systems required to make it work.
+**2023 to 2024 | Infectious Diseases and Tropical Medicine**
 
-That journey gradually introduced me to software architecture, databases, APIs, cloud infrastructure, security, AI systems, product design, deployment, and production engineering.
+I continued my education with a master's in Infectious Diseases and Tropical Medicine.
+
+**2023 | First Steps With AI**
+
+I first started using AI as a learning tool to help me understand and work through my medical education. At that point, I was not trying to build technology. I was simply using it to learn better.
+
+**2024 to 2025 | Trading**
+
+My use of AI gradually expanded into trading. I used it to help me study markets, review ideas, organize my thinking, and improve the way I approached trading.
+
+**Late 2025 | Building Products**
+
+By the end of 2025, my relationship with AI changed again. I moved from mainly using it to learn and analyze into using it to help me build products. That period involved a lot of experimentation, mistakes, rebuilding, learning, and gradual improvement.
+
+**March 2, 2026 | Tradeloggy**
+
+I built Tradeloggy as a trading journal and analytics platform. What started as a product I wanted to create grew faster than I expected and became the foundation for something larger.
+
+**2026 | Zetemora and Zekazi**
+
+Zetemora became the parent technology company behind the products I was building. Tradeloggy became one of its core products, and Zekazi followed as an AI whiteboard focused on visual thinking, brainstorming, and organizing ideas.
+
+My path into technology did not begin with a traditional software engineering background. It came from using technology to solve my own problems, learning how systems work, and gradually moving from user to builder.
 
 I am still learning, and I expect that to remain true for a long time.
 
