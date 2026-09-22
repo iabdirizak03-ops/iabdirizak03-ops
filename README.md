@@ -2,9 +2,8 @@
 
 # Ismail Ali
 
-**Founder of [Zetemora](https://www.zetemora.com)**
-
-Building useful technology with a focus on simplicity, trust, privacy, and real usefulness.
+**Founder of [Zetemora](https://www.zetemora.com)**  
+Building useful technology with simplicity, trust, privacy, and real usefulness.
 
 </div>
 
@@ -12,116 +11,98 @@ Building useful technology with a focus on simplicity, trust, privacy, and real 
 
 <table>
 <tr>
-<td width="38%" align="center" valign="top">
+<td width="32%" valign="top" align="center">
 
-<img src="https://avatars.githubusercontent.com/u/265423873?v=4" width="260" alt="Ismail Ali">
+<img src="https://avatars.githubusercontent.com/u/265423873?v=4" width="220" alt="Ismail Ali" />
 
 <br><br>
 
-**Ismail Ali**
+## Ismail Ali
 
-Medicine · Technology · AI · Product
+**@iabdirizak03-ops**
+
+Building useful software for a brighter, more capable Africa.
+
+<br>
+
+[Zetemora](https://www.zetemora.com)  
+[Tradeloggy](https://www.tradeloggy.com)  
+[Zekazi](https://zekazi.com)
 
 </td>
-<td width="62%" valign="top">
+<td width="68%" valign="top">
 
 <pre>
-iabdirizak03-ops@github
-────────────────────────────────────────
+ismail@github
+────────────────────────────────────────────
 
-Role        : Founder
-Company     : Zetemora
-Building    : Tradeloggy · Zekazi
-Background  : Medicine · Infectious Diseases
-Focus       : Software · AI · Product
-Region      : East Africa
+Role..................... Founder & CEO
+Company.................. Zetemora
+Building................. Tradeloggy, Zekazi
+Background............... Medicine, Infectious Diseases
+Focus.................... Software, AI, Product
+Region................... East Africa
 
-Principles
-────────────────────────────────────────
+Languages.Programming.... TypeScript, JavaScript, Python
+Work.Areas............... Backend, APIs, Security
+Tools.................... Next.js, React, Railway, Neon
+Principles............... Simple, Honest, Useful
 
-Think deeply.
-Build simply.
-Keep moving forward.
+Contact
+────────────────────────────────────────────
+
+Website.................. zetemora.com
+GitHub................... @iabdirizak03-ops
+Products................. tradeloggy.com, zekazi.com
 </pre>
 
 </td>
 </tr>
 </table>
 
+---
+
 ## What I Build
 
-### [Zetemora](https://www.zetemora.com)
+### Tradeloggy
+Private trading journal and analytics platform built for traders who want to understand performance, execution, discipline, and decision making.
 
-Technology company behind the products I build. The goal is simple: build useful technology from Africa, serve real users well, and create products that can stand on their own anywhere in the world.
+### Zekazi
+AI whiteboard and visual thinking space for brainstorming, organizing ideas, and turning rough concepts into clearer work.
 
-### [Tradeloggy](https://www.tradeloggy.com)
+### Zetemora
+Technology company focused on building practical products from Africa that can serve real users well.
 
-A private trading journal and analytics platform focused on helping traders understand performance, execution, discipline, and decision making.
+---
 
-### [Zekazi](https://zekazi.com)
+## About Me
 
-An AI whiteboard for visual thinking, brainstorming, organizing ideas, and turning rough concepts into clearer work.
+My background is in medicine, and over time I became deeply interested in technology, AI, product design, and software engineering.
 
-## What I Work On
+Most of what I know today came from building real products, solving problems, making mistakes, improving systems, and learning how things actually work behind the interface.
 
-`AI systems` · `Product development` · `Software architecture` · `Backend systems` · `Application security` · `Databases` · `APIs` · `Cloud infrastructure` · `User experience` · `Production reliability`
-
-## How I Build
-
-**Simplicity**  
-If something can be simpler without losing value, I prefer the simpler version.
-
-**Professionalism**  
-A small company should still take its product, users, security, and responsibilities seriously.
-
-**Honesty**  
-No fake metrics, fake testimonials, exaggerated capabilities, or pretending a product is more advanced than it really is.
-
-**Privacy**  
-User data should be treated as a responsibility.
-
-**Trust**  
-Trust is difficult to build and easy to lose, so product decisions should protect it.
-
-<details>
-<summary><strong>Background</strong></summary>
-
-<br>
-
-**2016 to 2022 · Medicine and Surgery**  
-Completed a Bachelor of Medicine and Bachelor of Surgery.
-
-**2023 to 2024 · Infectious Diseases and Tropical Medicine**  
-Continued my education with a master's in Infectious Diseases and Tropical Medicine.
-
-**2023 · First Steps With AI**  
-Started using AI as a learning tool for assignments, presentations, research, and understanding difficult topics more clearly.
-
-**2024 to 2025 · Trading**  
-Expanded my use of AI into studying markets, reviewing ideas, organizing my thinking, and improving my approach to trading.
-
-**Late 2025 · Building Products**  
-Moved from mainly using AI to learn and analyze into using it to help build products.
-
-**2026 · Tradeloggy, Zetemora and Zekazi**  
-Continued building Tradeloggy, established Zetemora as the parent technology company, and developed Zekazi as a visual thinking and study product.
-
-My path into technology did not begin with a traditional software engineering background. It came from using technology to solve problems, learning how systems work, and gradually moving from user to builder.
-
-</details>
+---
 
 ## Current Focus
 
-Building Zetemora carefully, growing Tradeloggy responsibly, improving Zekazi, learning more about AI and software engineering, and creating technology from Africa that can compete globally.
+- Building Zetemora carefully  
+- Growing Tradeloggy responsibly  
+- Improving Zekazi  
+- Learning more about AI and software engineering  
+- Creating technology from Africa that can compete globally  
 
-## Links
+---
 
-[Zetemora](https://www.zetemora.com) · [Tradeloggy](https://www.tradeloggy.com) · [Zekazi](https://zekazi.com)
+## Philosophy
+
+> Think deeply.  
+> Build simply.  
+> Keep moving forward.
 
 <br>
 
 <div align="center">
 
-**Think deeply. Build simply. Keep moving forward.**
+**Zetemora** • **Tradeloggy** • **Zekazi**
 
 </div>
