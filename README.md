@@ -1,9 +1,14 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/265423873?v=4" width="150" alt="Ismail Ali" />
+
 # Ismail Ali
 
-**Founder of [Zetemora](https://www.zetemora.com)**  
-Building useful technology with simplicity, trust, privacy, and real usefulness.
+**Founder & CEO, [Zetemora](https://www.zetemora.com)**
+
+Medicine background. Product builder. Learning software by building real systems.
+
+[Zetemora](https://www.zetemora.com) · [Tradeloggy](https://www.tradeloggy.com) · [Zekazi](https://zekazi.com)
 
 </div>
 
@@ -11,98 +16,123 @@ Building useful technology with simplicity, trust, privacy, and real usefulness.
 
 <table>
 <tr>
-<td width="32%" valign="top" align="center">
-
-<img src="https://avatars.githubusercontent.com/u/265423873?v=4" width="220" alt="Ismail Ali" />
-
-<br><br>
-
-## Ismail Ali
-
-**@iabdirizak03-ops**
-
-Building useful software for a brighter, more capable Africa.
-
-<br>
-
-[Zetemora](https://www.zetemora.com)  
-[Tradeloggy](https://www.tradeloggy.com)  
-[Zekazi](https://zekazi.com)
-
-</td>
-<td width="68%" valign="top">
+<td width="48%" valign="top">
 
 <pre>
 ismail@github
-────────────────────────────────────────────
+──────────────────────────────────────
 
-Role..................... Founder & CEO
-Company.................. Zetemora
-Building................. Tradeloggy, Zekazi
-Background............... Medicine, Infectious Diseases
-Focus.................... Software, AI, Product
-Region................... East Africa
+Role        Founder & CEO
+Company     Zetemora
+Building    Tradeloggy · Zekazi
+Background  Medicine · Infectious Diseases
+Focus       Product · Software · AI
+Region      East Africa
+</pre>
 
-Languages.Programming.... TypeScript, JavaScript, Python
-Work.Areas............... Backend, APIs, Security
-Tools.................... Next.js, React, Railway, Neon
-Principles............... Simple, Honest, Useful
+</td>
+<td width="52%" valign="top">
 
-Contact
-────────────────────────────────────────────
+<pre>
+workspace
+──────────────────────────────────────
 
-Website.................. zetemora.com
-GitHub................... @iabdirizak03-ops
-Products................. tradeloggy.com, zekazi.com
+Frontend    Next.js · React · TypeScript
+Backend     APIs · Databases · Auth
+Infra       Railway · Neon · GitHub
+Security    Privacy · Access · Reliability
+Method      Learn by building
+Standard    Simple · Honest · Useful
 </pre>
 
 </td>
 </tr>
 </table>
 
----
+## Selected work
 
-## What I Build
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### Tradeloggy
-Private trading journal and analytics platform built for traders who want to understand performance, execution, discipline, and decision making.
+### [Tradeloggy](https://www.tradeloggy.com)
 
-### Zekazi
-AI whiteboard and visual thinking space for brainstorming, organizing ideas, and turning rough concepts into clearer work.
+A private trading journal and performance platform focused on execution, discipline, review, and trader-owned data.
 
-### Zetemora
-Technology company focused on building practical products from Africa that can serve real users well.
+</td>
+<td width="33%" valign="top">
 
----
+### [Zekazi](https://zekazi.com)
 
-## About Me
+A visual thinking and study space for organizing ideas, planning work, and using AI without unnecessary complexity.
 
-My background is in medicine, and over time I became deeply interested in technology, AI, product design, and software engineering.
+</td>
+<td width="33%" valign="top">
 
-Most of what I know today came from building real products, solving problems, making mistakes, improving systems, and learning how things actually work behind the interface.
+### [Zetemora](https://www.zetemora.com)
 
----
+The technology company behind the products I build, with a long-term focus on useful software from Africa.
 
-## Current Focus
+</td>
+</tr>
+</table>
 
-- Building Zetemora carefully  
-- Growing Tradeloggy responsibly  
-- Improving Zekazi  
-- Learning more about AI and software engineering  
-- Creating technology from Africa that can compete globally  
+## What I work on
 
----
+`Product systems` `AI features` `Backend architecture` `APIs` `Databases` `Authentication` `Application security` `Cloud infrastructure` `UX` `Reliability`
 
-## Philosophy
+I care more about whether a system is **useful, understandable, secure, and maintainable** than whether it looks technically impressive.
 
-> Think deeply.  
-> Build simply.  
-> Keep moving forward.
+## Background
+
+My path into technology started outside traditional software engineering.
+
+I studied medicine and later infectious diseases and tropical medicine. AI first became useful to me as a learning and research tool. Over time, I started using it to analyze problems, understand systems, and eventually build products.
+
+That transition changed how I learn. Instead of only studying software in theory, I learn by shipping, reviewing failures, improving architecture, fixing security gaps, and seeing how real users interact with the product.
+
+## How I build
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Simplicity
+
+Remove complexity that does not create real value.
+
+</td>
+<td width="33%" valign="top">
+
+### Trust
+
+Treat privacy, security, and user data as responsibilities.
+
+</td>
+<td width="33%" valign="top">
+
+### Honesty
+
+No fake metrics, fake testimonials, or inflated product claims.
+
+</td>
+</tr>
+</table>
+
+## Current focus
+
+Building Zetemora carefully, improving Tradeloggy and Zekazi, strengthening product architecture and security, and continuing to learn how to build software that can serve users reliably at scale.
 
 <br>
 
 <div align="center">
 
-**Zetemora** • **Tradeloggy** • **Zekazi**
+```
+think deeply
+build simply
+keep moving forward
+```
+
+**East Africa · Medicine · Technology · Product**
 
 </div>
